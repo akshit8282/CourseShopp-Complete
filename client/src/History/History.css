@@ -1,0 +1,29 @@
+.write {
+    background:#eee;
+  }
+  .heading{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    color: cornflowerblue;
+  }
+  .cardimg{
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+  }
+  .bodyc{
+    margin-top: 30px;
+  }
+  .cardbody{
+    display: flex;
+  }
+  .main{
+    margin-top: 30px;
+    border-radius: 30px;
+  }
+  .cbutton{
+    background-color: black;
+    color: coral;
+    border-radius: 20px;
+  }
